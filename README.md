@@ -1,4 +1,4 @@
-# Project moneymaker
+# How to make money with money maker
 
 Cilj projekta je provjeriti uspješnost neuronske mreže u predviđanju rezultata nogometnih utakmica.
 Kao dataset su korištene utakmice engleskog Premier League-a od 2013 do 2019 godine što je ukupno oko 2400 utakmica.
